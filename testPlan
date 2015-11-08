@@ -1,0 +1,20 @@
+Test Case Consideration Points
+
+Functinal Test:
+* File not exist.
+* Empty file.
+* File Access Denied. 
+* Valid File w/ One line.
+* Valid File w/ Multiple lines.
+
+Performance Tuning (Billions of float numbers):
+* One time read for 8K
+
+Remote/Netowrk file path Support:
+1. NFS 
+2. CIFS 
+
+Memory
+
+CPU
+
